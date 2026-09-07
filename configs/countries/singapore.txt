@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-vless://395d040e-a04a-43d7-a1e9-8635f545879a@188.114.97.6:2096?&security=tls&fp=unsafe&sni=shalana.xyz&type=ws&headerType=none&host=shalana.xyz&path=%2Fshalana#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
