@@ -3,9 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 6
 
 vless://1f61fc64-3113-4a23-9670-a33208026dbc@138.249.20.43:443?encryption=none&type=xhttp&security=reality&sni=5post-gate.x5.ru&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&sid=a8f3c1d7e9b4c2f6&fp=qq&path=/xhttp-proxy&mode=auto#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://a0f12173-7807-47be-860a-7d423a6e49ba@194.135.34.11:443?encryption=none&type=grpc&security=reality&sni=5post-gate.x5.ru&pbk=-VaSiNnJ2kPfbQxIu4y8exsZKHLvc8LcWTNkO6Vr6CI&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://a0f12173-7807-47be-860a-7d423a6e49ba@194.135.34.59:443?encryption=none&type=grpc&security=reality&sni=5post-gate.x5.ru&pbk=-VaSiNnJ2kPfbQxIu4y8exsZKHLvc8LcWTNkO6Vr6CI&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:14443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://abe14cd9-64dd-4fd8-92eb-41721f01d5dd@45.74.159.28:34562?fp=chrome&mode=auto&path=%2F&pbk=XA38yaPccZcxcXuBha_PolFKj9vdbWtQKchyZQB2YFM&security=reality&sid=b72df785&sni=org.semiconductor.samsung.com&spx=%2Fa7dd2f449db256c&type=xhttp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://abe14cd9-64dd-4fd8-92eb-41721f01d5dd@turkii.parsclad.ir:34562?fp=chrome&mode=auto&path=%2F&pbk=XA38yaPccZcxcXuBha_PolFKj9vdbWtQKchyZQB2YFM&security=reality&sid=b72df785&sni=org.semiconductor.samsung.com&spx=%2Fa7dd2f449db256c&type=xhttp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
