@@ -3,7 +3,6 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 1
 
-vless://cf80b5fc-c445-4373-87e6-f8a22ad10d81@109.104.155.119:443?fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&security=reality&sni=br.monkora.org&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
-vless://cf80b5fc-c445-4373-87e6-f8a22ad10d81@br.monkora.org:443?fp=firefox&headertype=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&security=reality&sni=br.monkora.org&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206b3dWZE5uUWNkUGd0aFN5WA@216.128.168.190:8388#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
