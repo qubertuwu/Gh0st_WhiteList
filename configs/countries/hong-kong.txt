@@ -3,16 +3,6 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 11
+# Всего рабочих: 1
 
-vless://1f61fc64-3113-4a23-9670-a33208026dbc@hk01.keyinvest.org:1444?encryption=none&type=xhttp&security=reality&sni=5post-gate.x5.ru&pbk=laQ_nym00MMR_SCNOOr5c7HMCtfmGfAQaHYMswZys1g&sid=a8f3c1d7e9b4c2f6&fp=qq&path=/xhttp-proxy&mode=auto#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://3f514ea2-4662-11ed-a8bf-f23c91cfbbc9@456afbf3-tla000-tmj4pk-1kcpe.hk3.hyhuawei.com:443?fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&security=reality&sni=updates.cdn-apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://2ec58858-976b-11ea-82ef-f23c9164ca5d@19a3f02e-tla000-tl6lcj-tng5.hk3.hyhuawei.com:443?fp=chrome&packetencoding=xudp&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&security=reality&sni=updates.cdn-apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://f860f2da-5035-11ed-bb74-f23c9164ca5d@e1e7c7b8-tl4g00-tnt75r-1k8ga.hk3.hyhuawei.com:443?fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&security=reality&sni=updates.cdn-apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://91df5a86-fcdd-11ef-94aa-f23c913c8d2b@826ff98e-tla000-tuklme-ueq.hk3.hyhuawei.com:443?fp=chrome&packetencoding=xudp&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&security=reality&sni=updates.cdn-apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://f860f2da-5035-11ed-bb74-f23c9164ca5d@2a7f1432-tla000-tnt75r-1k8ga.hk3.hyhuawei.com:443?fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&security=reality&sni=updates.cdn-apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://b02327ac-a49a-11ef-a673-f23c913c8d2b@35c2bc34-tla000-tqruo0-1pqhp.hk3.hyhuawei.com:443?fp=chrome&packetencoding=xudp&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&security=reality&sni=updates.cdn-apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://6d56436c-150d-11f0-b0c8-f23c913c8d2b@fae6ca7a-tla000-tpkh0c-1r7od.hk3.hyhuawei.com:443?fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&security=reality&sni=updates.cdn-apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://e4499a62-0cfe-11eb-ad8c-f23c9164ca5d@3cbd3de7-tla000-tpftcp-13x18.hk3.hyhuawei.com:443?fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&security=reality&sni=updates.cdn-apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://40fb1315-191a-11ed-b0ca-f23c91cfbbc9@7306ab60-tla000-tlvr2y-1imi4.hk3.hyhuawei.com:443?fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&security=reality&sni=updates.cdn-apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://5dc6fa05-a601-aba6-7761-ecde22d2b0fc@fe1dcec0-tla000-tonrmx-8n27.hk3.hyhuawei.com:443?fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&security=reality&sni=updates.cdn-apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://c7fc009a-026b-46e5-a0c5-82e32bcabd69@hk.monkeyvillage.pro:443?fp=firefox&pbk=tvz-0zx5-cxIYwwVmK-anU3RUstNR1WureViblH4x30&security=reality&sni=hk.monkeyvillage.pro&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
