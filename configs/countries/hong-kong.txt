@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-vless://c7fc009a-026b-46e5-a0c5-82e32bcabd69@hk.monkeyvillage.pro:443?fp=firefox&pbk=tvz-0zx5-cxIYwwVmK-anU3RUstNR1WureViblH4x30&security=reality&sni=hk.monkeyvillage.pro&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://2b61c167-5563-43ab-94a0-7d02c0a27ca5@45.144.137.55:10766?type=tcp&security=reality&sni=www.paypal.com&flow=xtls-rprx-vision&pbk=U9z66G173U5ROhQvuyRf7SmkViqn1juXjvsy88dWtEk&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
