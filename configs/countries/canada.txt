@@ -3,7 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 3
 
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://50414e45-4c5f-5a45-5553-44890b90d17e@104.21.238.93:443?path=%2Fstream%2FPANEL_ZEUS%2F44890b90d17e%2Floc-0&security=tls&encryption=none&insecure=0&host=afzoybehu2ws.vtzv4xe1un6s.workers.dev&type=ws&allowInsecure=0&sni=afzoybehu2ws.vtzv4xe1un6s.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
