@@ -3,10 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 2
 
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://ea34d4d1-8b87-4a2a-b23e-9927d7c83f46@gb1.oshost.network:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&security=reality&sid=fc36b4a584871aa5&sni=gb1.oshost.network&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://ea34d4d1-8b87-4a2a-b23e-9927d7c83f46@164.37.105.90:443?flow=xtls-rprx-vision&fp=firefox&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&security=reality&sid=fc36b4a584871aa5&sni=gb1.oshost.network&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://b691d443-3d5b-47d3-9c6f-9b84beda2b13@31.76.39.163:443?flow=xtls-rprx-vision&fp=firefox&pbk=UzVp3x9LEOVeF_j_X2XzJrumdyfLEiFS0d6qDGVB_3M&security=reality&sid=6252784c3b8de71a&sni=uk1.kramiliantha.sbs&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList

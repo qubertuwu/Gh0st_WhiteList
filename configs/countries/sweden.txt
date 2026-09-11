@@ -3,14 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 6
 
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f692629b-3557-488a-9c9b-60775331e423@sw2.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@se.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:11443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&sid=6e249ff1da&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://14ffccc6-81e0-4108-ab35-b3df398534af@apisw2.jobwebs.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=c39acc8cb9481d24#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://bd29f019-85a2-43f6-b10a-e91dbdf58ee3@138.124.29.78:443?_t=6e8841cc&fp=firefox&mode=auto&path=%2FhanBham0QSktwSruCtIbKI6PCsj&pbk=zecFPSPQrkRM2o4grOw2cvhmq05kyZGTmO0xbFkvZF4&security=reality&sid=71fb59bc&sni=yastatic.net&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://574911f3-cdba-4092-a69c-fbd76c183981@idontknow.whit3.net:443?flow=xtls-rprx-vision&fp=firefox&pbk=9hX9xn4aKrsXXqWi9nLyuDm2izZ_klzFffTR8192Rxs&security=reality&sid=ca9273f1a19a886e&sni=idontknow.whit3.net&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://d9d0f208-d582-41d5-bb7b-742671402810@eu-north-sw-2.hanvpn.biz:443?flow=xtls-rprx-vision&fp=firefox&pbk=EABhMlawKh-zPOVkef-G9n7Ap5PPZRbrtUzYWkVsamc&security=reality&sid=0172b7681806bc97&sni=eu-north-sw-2.hanvpn.biz#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://ef3595fb-72f4-430d-9bf8-fff90327903a@swe-1.lunoa.ru:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=l8vhMtOhGEsduzrsXfFg2tq3eiKVBHRQLIm0VtbUJDs&security=reality&sid=277201d753225a01&sni=swe-1.lunoa.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw@70.34.212.124:8388#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
