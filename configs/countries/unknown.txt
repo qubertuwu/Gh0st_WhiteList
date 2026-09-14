@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14191
+# Всего рабочих: 14192
 
 vless://4e5017e0-07da-48ef-a882-fa26a845ead6@109.120.188.54:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?path=%2Fstorage&security=tls&encryption=none&alpn=h2,http/1.1&host=s95410.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s95410.cdn.ngenix.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -8920,6 +8920,7 @@ vless://f4f2229e-ca2a-40b1-b4ae-24248c21b645@cdn7-83.cdn-vkvideo.com:443?securit
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&type=ws&path=%2F&sni=support.zoom.us.beichuan.serv00.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://791a171e-c0af-4bd7-b8ce-43541c7585db@94.249.180.41:443?type=grpc&security=reality&fp=firefox&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&sni=id.pervye.ru&serviceName=ns&authority=id.pervye.ru#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://85d3de51-1960-4bb5-86ab-ab6343accb01@45.198.96.250:443?security=reality&encryption=none&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=764f497dda21c4fc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@p1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://15e83ced-7544-422e-863d-deafe29a1dbe@31.77.56.112:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&sid=635a76c25a4b1820&sni=www.amd.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://f7f40eca-abc0-498b-83d0-bc6ffb85a2bf@82.40.62.115:35441?encryption=none&amp;type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://c7e9c591-2764-423a-afca-efbd010fd396@57.128.246.84:443?fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList

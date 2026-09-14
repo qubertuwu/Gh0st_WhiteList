@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 235
+# Всего рабочих: 234
 
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@204.168.233.186.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@5.255.122.32.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -146,7 +146,6 @@ vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@ja10.levikogjgfdd.ir:2087?mode=gun&
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@jp.alertyagency.com:443?security=reality&encryption=none&pbk=a7QPumBr-7EpnnPJ8TRr38MapK3xNGt59kfdPwud4xA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=48ced39e#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d23cb516-40db-4aa4-8142-6b45ff882f90@pl4.lckdwn.ru:33843?type=grpc&serviceName=grpc&mode=gun&security=reality&sni=www.cloudflare.com&pbk=6GqM3zujFqyHA2Ksah-jgKWzxZToKS-PZOHqLIWNJhs&sid=b9a14981&fp=chrome&spx=%2Fhqrcwtxf9mhwjkc#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d23cb516-40db-4aa4-8142-6b45ff882f90@pl4.lckdwn.ru:8443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=Wcbu-RQtOWYlsoZg3PIaxVqFMnEYLdkO9iRr6cHBBAQ&sid=4258&fp=qq&spx=%2Ftyrl80hchwrzixp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@p1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@p2.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@lapa7.api3-max.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lapa7.api3-max.ru#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://21672ca3-da3f-46cd-9b67-2b2d4cb0beb3@cdn722d3222.rucdn.pro:443?security=reality&encryption=none&pbk=nDUrcIPWyCo7gAOVPfjAneLz17NdCrUMCIvdJsTRsD4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cdn722d3222.rucdn.pro#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
