@@ -1489,7 +1489,7 @@ trojan://T9BpZIVMNv@v2.dabache.top:8443?security=tls&sni=sweden.vmaxpanel.com&in
 trojan://T9BpZIVMNv@vip3.kaixincloud.top:8443?security=tls&sni=sweden.vmaxpanel.com&insecure=0&allowInsecure=0&type=ws&host=sweden.vmaxpanel.com&path=%2Famd#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://YRw2bzmWwl@209.200.246.105:17837?security=reality&sni=aws.amazon.com&fp=chrome&pbk=5gvjnhYk02bUmi_cxQ4dDTYGNz-rLWP0JXHWx6jzQWE&sid=523b961ba0&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://bpb-trojan@russia.com:443?security=tls&sni=vless4.vlessvless.top&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=vless4.vlessvless.top&path=%2Ftr#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://c558328b-eb46-424c-b9e0-574770f0b072@hhju8.huangshang.site:443?security=tls&insecure=0&allowInsecure=0&type=ws&host=hhju8.huangshang.site&path=%2Fks4McWjhV7bXNC0BXGtJ#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://c558328b-eb46-424c-b9e0-574770f0b072@hhju8.huangshang.site:443?security=tls&insecure=0&allowInsecure=0&type=ws&host=hhju8.huangshang.site&path=%2Fks4McWjhV7bXNC0BXGtJ#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 trojan://c558328b-eb46-424c-b9e0-574770f0b072@rft5.xx9.ccwu.cc:443?security=tls&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=rft5.xx9.ccwu.cc&path=%2Fks4McWjhV7bXNC0BXGtJ#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@mhju.h2e.indevs.in:443?security=tls&insecure=0&allowInsecure=0&type=ws&path=%2FmRjWgF9aMWcpQ8L96b#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@mkl.2oo.ccwu.cc:443?security=tls&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mkl.2oo.ccwu.cc&path=%2FmRjWgF9aMWcpQ8L96b#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
