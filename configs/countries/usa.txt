@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 66
+# Всего рабочих: 67
 
 vless://569ad03a-219e-5536-9202-e124d49d916c@czech-republic.claudpath.com:9443/?type=xhttp&encryption=none&flow=&path=%2Fgrpc&mode=stream-up&sni=vip.asus.com&fp=chrome&security=reality&pbk=0Kx5zQU_87SwVMBnidAFGHceqKAApqrgVL8NCB3Rtlw&sid=229d7f58#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://0764541b-3e57-4b47-954b-51e996fae5fc@xs13.mcufa.pro:443?encryption=none&security=tls&sni=xs13.mcufa.pro&fp=firefox&type=xhttp&host=xs13.mcufa.pro&path=%2Fapi%2Fv1%2Fminecraft178%2Fsync%2F&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22uplinkDataPlacement%22%3A%22body%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A0%2C%22cMaxReuseTimes%22%3A%2236-96%22%2C%22hMaxRequestTimes%22%3A%22320-640%22%2C%22hMaxReusableSecs%22%3A%22720-1800%22%2C%22maxConcurrency%22%3A%228-32%22%2C%22maxConnections%22%3A0%7D%7D#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -43,6 +43,7 @@ vless://e1149c38-68fc-4cf5-83f6-0085cc7a891b@poland.olympusjewelry.ir:2086?Teleg
 vless://bef7acd0-8b81-431d-bcce-a76c3da658ae@sb1.artinnet.shop:443?encryption=none&fp=chrome&pbk=xyMx8lBZ6dn2EO6G3Alt_7bQueu_eZgQ4kZEbMFXL3E&security=reality&sid=ce&sni=w.wiki&spx=/XzJUSkVgcj0tycU&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://e8c4193b-ad9b-4536-bc16-dc5ea6c49b48@linux.makuturkonline.ir:8443?mode=gun&security=tls&encryption=mlkem768x25519plus.native.0rtt.B4FO0-Btp0BF-KcUZuQCrBUr0ty_mKR0n9VcZyysgkc&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=linux.makuturkonline.ir#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://c7a9c7f0-4a6b-414e-bdfc-8ad8980f858b@direct-tr01.korvexe.ir:21570?path=%2F&host=direct-tr01.korvexe.ir&security=none&type=ws&encryption=mlkem768x25519plus.native.0rtt.5SJmX8GGvlmVzd0r_T8yMc25nAj-kXw9Q4Cp831Vj1Y#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://b5650923-6550-41e2-b492-d57c249ec739@moon.shapii.ir:43070?encryption=mlkem768x25519plus.native.0rtt.24dVej4qDgH0d33zR1JYuczcMoDaTF2YWsY5lmWCOmk&security=none&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://47d440a1-83ac-4d0f-b2b4-e51a8526f55a@ge.configfast.site:3013?security=&amp;encryption=none&amp;host=bale.ai%2Cweb.splus.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://b559decc-2e48-47c3-827f-a48cdfd7388d@fr.veraxideas.ir:20000?security=reality&encryption=none&pbk=jyMIhueDirXlz-JiLj1ff5zayv6TjRKUSGfp-gxR6iQ&headerType=none&fp=chrome&spx=%2FZESolO5ZLEBgCJi&type=tcp&sni=yahoo.com&sid=79546ef3cf6f#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://954e582b-339e-482f-91ca-62a021469766@parsiran.amirrezamydamane.info:42951?encryption=mlkem768x25519plus.native.0rtt.hr_B27q0XLj8gjJlo_IFJOwOV8R8R3h6IK5EjNw7Exk&security=tls&sni=parsiran.amirrezamydamane.info&alpn=h2%2C%20http%2F1.1%2C%20h3&fp=chrome&ech=AHH%2BDQBtAAAgACB1E%2BtfpX01ARWFiOyTGnLRGGlk9PojTSiShxewaZ%2BXSwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAB5wYXJzaXJhbi5hbWlycmV6YW15ZGFtYW5lLmluZm8AAA%3D%3D&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
