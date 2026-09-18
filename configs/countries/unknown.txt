@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14174
+# Всего рабочих: 14175
 
 vless://4e5017e0-07da-48ef-a882-fa26a845ead6@109.120.188.54:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?path=%2Fstorage&security=tls&encryption=none&alpn=h2,http/1.1&host=s95410.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s95410.cdn.ngenix.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -8710,6 +8710,7 @@ vless://ef5e311d-ed25-42d7-98a6-30fa273cf174@103.76.85.82:443?security=reality&t
 vless://88eb0afe-d77c-4dcd-ad30-3c9506a809c3@103.137.215.105:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=73acf1381fcf99fc&pbk=B8e9hvR12tVzv_E3udrUxQEv8ZcHCF1xmMgBaJSovQs#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://d29f3c8c-650a-466c-a8b0-8150f33b1640@116.206.92.44:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vnJsxWf4fvfo-3_EOY3QidjgCpDFe7XnB59ltE70pnI&security=reality&sid=1b09f4d0491f2a48&sni=www.apple.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.30:10000?security=none&type=tcp&packetEncoding=xudp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@ja10.levikogjgfdd.ir:2087?mode=gun&security=reality&encryption=none&authority=Telegram-Leviko_v2ray&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=firefox&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@18.183.87.213:10026?encryption=none&flow=xtls-rprx-vision&pbk=-iZh6xpEREbTssMskcpNOjrqzHuDTb3t5Mg9L7t9qXM&security=reality&sid=017184&sni=www.hp.com&type=tcp&fp=qq#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZmYzXHVmZTBmIEdoMHN0X1doaXRlTGlzdCIsImFkZCI6IkozTnowekEwcjEzQW9WaEgudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiIxYWJlNDlkZWRiNmU0ZjY1YTBmMGE1ZWE3OWRkZWZhZCIsInNuaSI6IkozTnowekEwcjEzQW9WaEgudi4zZG5zLnZpcCIsImhvc3QiOiJKM056MHpBMHIxM0FvVmhILnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZmYzXHVmZTBmIEdoMHN0X1doaXRlTGlzdCIsImFkZCI6IlVjS25pWGpmZDJKT0tCbXgudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiIxYWJlNDlkZWRiNmU0ZjY1YTBmMGE1ZWE3OWRkZWZhZCIsInNuaSI6IlVjS25pWGpmZDJKT0tCbXgudi4zZG5zLnZpcCIsImhvc3QiOiJVY0tuaVhqZmQySk9LQm14LnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIn0=
