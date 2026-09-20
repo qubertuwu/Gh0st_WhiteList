@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14172
+# Всего рабочих: 14169
 
 vless://4e5017e0-07da-48ef-a882-fa26a845ead6@109.120.188.54:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?path=%2Fstorage&security=tls&encryption=none&alpn=h2,http/1.1&host=s95410.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s95410.cdn.ngenix.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -7848,7 +7848,6 @@ vless://569f0ac3-6185-475a-8691-421df883d8e2@www.medium.com:443?path=/sdvhjldsob
 vless://569f0ac3-6185-475a-8691-421df883d8e2@www.udemy.com:443?path=%2Fsdvhjldsob&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=shop.lilium-rozh.ir&fp=chrome&type=ws&allowInsecure=0&sni=shop.lilium-rozh.ir#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://3adac494-0eb1-4d89-a187-b2181691444d@tiny-lake-bbf1.369-766.workers.dev:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=&encryption=none&fp=qq&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://9b18ccef-b9e0-41d1-8990-9d970569e142@saas.sin.fan:443?security=tls&type=ws&path=/MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN&host=web-socket.tgdaosheng.ggff.net&packetEncoding=xudp&sni=web-socket.tgdaosheng.ggff.net&fp=unsafe#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-vless://13040d5f-5d8c-45ad-88cf-2e8834d5eb67@tunafra.clonecloudcenter.ir:6066?security=reality&encryption=mlkem768x25519plus.native.0rtt.lPncPP4Pt2-stNk2RvKeVi1xaTOaF3Qikuyfvc3wuGY&pbk=wf9bvKzFXI8puY5o5WiSDUSlWqIvdz0hKjAOJXhLKjg&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=9fa1e300b1e14e6e#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://7b1897ec-afb5-425c-afbf-d79634b6b317@www.visa.com.hk:443?encryption=none&security=tls&sni=se-sto.xhs152.shop&fp=random&type=ws&host=se-sto.xhs152.shop&path=%2Fannouncement%3Fed%3D2048#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://7b1897ec-afb5-425c-afbf-d79634b6b317@freev2.cloudflare.182682.xyz:443?encryption=none&security=tls&sni=ap-south.xhs152.shop&fp=random&type=ws&host=ap-south.xhs152.shop&path=/announcement?ed=2048#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://e94b55e1-cf7d-4878-86b2-4d76bfa66680@snapp.ir:2052?type=ws&encryption=none&path=/&host=cdn.pershiansport.ir&security=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -9217,7 +9216,6 @@ vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@212.87.199.76:2082?path=%2Fv-ws-de&
 vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@212.87.199.79:8080?path=%2Fv-ws&security=none&encryption=none&host=tr.cdn.doctor-alan.ir&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vmess://eyJhZGQiOiJ0ci5wcml2YXRldmlwLmlyIiwiYWxwbiI6ImgyLGh0dHAvMS4xLGgzIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoidHIucHJpdmF0ZXZpcC5pciIsImlkIjoiODViMjdmYmQtMzNkNi00YTNhLWJmNWItYzNjZjk3NzcyODkzIiwibmV0Ijoid3MiLCJwYXRoIjoiL1dTIiwicG9ydCI6MjUwMywic2N5IjoiYXV0byIsInNuaSI6InRyLnByaXZhdGV2aXAuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRmZjNcdWZlMGYgR2gwc3RfV2hpdGVMaXN0In0=
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZjJOcTVZTG55Y2xQYVdSOG15Ny9WZGQzWlg4VVJuY1haTmx5NStIY1VTcz06YUU2TXhCVGUrTVhIZDlIb0YyRkYvQnpLRnFHVFJlTXBNZXZsUWh2c3Uwcz0@176.53.17.241:1943#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-vless://e8c4193b-ad9b-4536-bc16-dc5ea6c49b48@linux.makuturkonline.ir:8443?mode=gun&security=tls&encryption=mlkem768x25519plus.native.0rtt.B4FO0-Btp0BF-KcUZuQCrBUr0ty_mKR0n9VcZyysgkc&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=linux.makuturkonline.ir#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZmYzXHVmZTBmIEdoMHN0X1doaXRlTGlzdCIsImFkZCI6ImxpbnV4Lm1ha3V0dXJrb25saW5lLmlyIiwicG9ydCI6IjIwODciLCJ0eXBlIjoibm9uZSIsImlkIjoiZThjNDE5M2ItYWQ5Yi00NTM2LWJjMTYtZGM1ZWE2YzQ5YjQ4IiwiYWlkIjoiMCIsIm5ldCI6InJhdyIsInBhdGgiOiIvIiwiaG9zdCI6ImxpbnV4Lm1ha3V0dXJrb25saW5lLmlyIiwidGxzIjoidGxzIn0=
 vless://d51f09ca-7010-4518-9c3e-181dbf568d03@test.soundfiy.ir:38412?type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=WiFcLLOG_Jjp7tj-EkSvBSX7m3ca-Z6l3_QtgSAGgBI&sid=efd8#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://4003d537-6128-4206-b86a-3444f88990c4@91.228.227.112:110?&type=tcp&headerType=none&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -9238,7 +9236,6 @@ vless://31f0e05b-2126-46ea-8f47-34e60defaa1b@tr2.diginoisb.ir:54178?security=non
 vless://5d5eb248-264c-4861-873a-50a7cc069448@194.5.206.112:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&authority=&encryption=none&security=none&serviceName=mamad&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://ed4b9524-0b20-4d1f-94e4-f2840384a166@91.228.227.112:40594?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vmess://eyJhZGQiOiIxMDMuODMuODcuMjI5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwZDY2NjdhLWQyNTctNDcyNC1iY2EwLTE4YzMzZmRkNmI0YSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMzE5NzMiLCJwcyI6Ilx1ZDgzY1x1ZGZmM1x1ZmUwZiBHaDBzdF9XaGl0ZUxpc3QiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-vless://b5650923-6550-41e2-b492-d57c249ec739@moon.shapii.ir:43070?encryption=mlkem768x25519plus.native.0rtt.24dVej4qDgH0d33zR1JYuczcMoDaTF2YWsY5lmWCOmk&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://6eb169bc-9d85-46ab-a9ec-327599b91ba1@45.74.159.28:40924?encryption=none&security=reality&sni=ca.rogers.yahoo.com&fp=chrome&pbk=ibDgx0xiVjgSGqZLiNrSY61LaAEp6m8bhjKKn1iwUkc&sid=23ff07&spx=/12cb22e741708d6&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://bfb3f06c-e33f-41ac-b101-012c8325a689@37.221.79.31:8082?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://52f3a0cb-b0e6-4602-9692-6e328ade89a6@Galaxyst-yu.iramkemaxyu.ir:443?encryption=none&security=reality&type=tcp&headerType=none&sni=us.demonware.net&fp=chrome&pbk=GORPMJwJ5Xa3X6liIjBMjArMwZCppipBDpUmw6XNnWg&sid=fb5211306ff117c4&spx=%2Fstore#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
