@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 242
+# Всего рабочих: 243
 
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@204.168.233.186.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@5.255.122.32.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -168,6 +168,7 @@ vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@wok1.api3-max.ru:443?security=tls&a
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@wok5.api3-max.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=wok5.api3-max.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@turj2.surup.shop:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=edge&spx=%2F&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://6ba3528d-ea33-4b43-a80d-9bc2db482c40@tre11.danqela.ir:50303?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=amp-api-edge.apps.apple.com&pbk=XhfHr5VYPbNs6BrrsYc7Wd6-D2nJAO8QrixRuJarFkU&sid=c7158ef32c1d2a7e#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://4cdedbb5-20f6-4036-9e72-22ce1dfc0d4b@tre12.danqela.ir:50303?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=XhfHr5VYPbNs6BrrsYc7Wd6-D2nJAO8QrixRuJarFkU&sid=4fd1b3b30e82af52#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@parta1.api3-max.ru:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=parta1.api3-max.ru&type=tcp&headerType=none&host=parta1.api3-max.ru&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@parta2.api3-max.ru:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=parta2.api3-max.ru&type=tcp&headerType=none&host=parta2.api3-max.ru&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@parta3.api3-max.ru:443/?encryption=none&flow=xtls-rprx-vision&security=tls&sni=parta3.api3-max.ru&alpn=h2%2Chttp%2F1.1&type=tcp&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
