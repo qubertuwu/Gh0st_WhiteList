@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 82
+# Всего рабочих: 81
 
 vless://569ad03a-219e-5536-9202-e124d49d916c@czech-republic.claudpath.com:9443/?type=xhttp&encryption=none&flow=&path=%2Fgrpc&mode=stream-up&sni=vip.asus.com&fp=chrome&security=reality&pbk=0Kx5zQU_87SwVMBnidAFGHceqKAApqrgVL8NCB3Rtlw&sid=229d7f58#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://0764541b-3e57-4b47-954b-51e996fae5fc@xs13.mcufa.pro:443?encryption=none&security=tls&sni=xs13.mcufa.pro&fp=firefox&type=xhttp&host=xs13.mcufa.pro&path=%2Fapi%2Fv1%2Fminecraft178%2Fsync%2F&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22uplinkDataPlacement%22%3A%22body%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A0%2C%22cMaxReuseTimes%22%3A%2236-96%22%2C%22hMaxRequestTimes%22%3A%22320-640%22%2C%22hMaxReusableSecs%22%3A%22720-1800%22%2C%22maxConcurrency%22%3A%228-32%22%2C%22maxConnections%22%3A0%7D%7D#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -21,7 +21,6 @@ vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@eng4.helper-internet.com:443?securi
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://17d29827-7cf1-4115-b40d-548e10ec355d@billing.netraidly.ru:40443?security=reality&encryption=none&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=aa3c#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@beacomf.xyz:8080#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=telewebion.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls&type=#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://13040d5f-5d8c-45ad-88cf-2e8834d5eb67@tunafra.clonecloudcenter.ir:6066?security=reality&encryption=mlkem768x25519plus.native.0rtt.lPncPP4Pt2-stNk2RvKeVi1xaTOaF3Qikuyfvc3wuGY&pbk=wf9bvKzFXI8puY5o5WiSDUSlWqIvdz0hKjAOJXhLKjg&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=9fa1e300b1e14e6e#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
