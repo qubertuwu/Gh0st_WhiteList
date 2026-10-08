@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 89
+# Всего рабочих: 90
 
 vless://569ad03a-219e-5536-9202-e124d49d916c@czech-republic.claudpath.com:9443/?type=xhttp&encryption=none&flow=&path=%2Fgrpc&mode=stream-up&sni=vip.asus.com&fp=chrome&security=reality&pbk=0Kx5zQU_87SwVMBnidAFGHceqKAApqrgVL8NCB3Rtlw&sid=229d7f58#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://0764541b-3e57-4b47-954b-51e996fae5fc@xs13.mcufa.pro:443?encryption=none&security=tls&sni=xs13.mcufa.pro&fp=firefox&type=xhttp&host=xs13.mcufa.pro&path=%2Fapi%2Fv1%2Fminecraft178%2Fsync%2F&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22uplinkDataPlacement%22%3A%22body%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A0%2C%22cMaxReuseTimes%22%3A%2236-96%22%2C%22hMaxRequestTimes%22%3A%22320-640%22%2C%22hMaxReusableSecs%22%3A%22720-1800%22%2C%22maxConcurrency%22%3A%228-32%22%2C%22maxConnections%22%3A0%7D%7D#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -42,6 +42,7 @@ vless://8316ca95-b32f-49a5-9de6-7e43aa6b710a@america.shoptwo.xyz:443?&security=r
 trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@bright.bitgas.org:443?security=tls&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://4e0f4e59-3613-4f0c-b824-7348413d20e6@jyvlryz.cvewfjg.shop:443?encryption=none&flow=xtls-rprx-vision&type=tcp%231%F0%9F%8E%97%EF%B8%8F@oneclickvpnkeys&security=reality&sni=www.cloudflare.com&pbk=UE8hUjH1WYwemxIriq5lvtFCnHTdLF817okXr-u7MGs&sid=250b5976473a#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://c06e4009-e406-45bb-9f56-80350cccf701@usfristoofarfromyou.arakphone.ir:54963?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=ios&sni=cdn-ci45.actonsoftware.com&pbk=XtTbQByOtEo_X409Ot8LTwjMHms_py_HIuwohx9ZM0Y&sid=b41fdd62fe975d18#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://b33e4571-de3f-4249-b246-b2acf3db2f36@unitedstatesgem-sgood.wopd.butnorwa.butter.whooisthebest.ir:9000?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&headerType=none&fp=chrome&type=tcp&sni=sheets.google.com&sid=cd0a1986719e44c8#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://7185254b-3b87-4073-9a0e-81093eac435b@sync.hac163.com:6386?security=&encryption=mlkem768x25519plus.native.0rtt.nXRHYT2mMfgY3MxtLcyc89i0YRqqj3y7Zety3O2ipVU&host=amp-api-edge.apps.apple.com&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://c06e4009-e406-45bb-9f56-80350cccf701@fiisveryfarfromyou.arakphone.ir:24971?encryption=mlkem768x25519plus.native.0rtt.iwI9yWqNVHJb5X9ibJ66HmlxYsR1oqQoL4ux5-3sBm8&type=tcp&headerType=none&security=reality&fp=qq&sni=www.pgicompilers.com&pbk=CuCszXg3N1y8X2klMaK70LeoRbF3vasPI0DG92Dyymo&sid=e3151e5761d8971b#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://1ab5ef70-14af-428b-bf4b-03889e0a3131@kshskjsjskeoekheueieie.nenenet1.ir:55777?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.O0QGHQMpSF3WNptiABMMcbXEtaaCf6Ql47WE6TX4CW0&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
