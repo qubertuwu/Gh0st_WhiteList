@@ -3355,7 +3355,7 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs3.univesalsrv.com:443?security=re
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?security=reality&amp;encryption=none&amp;pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&amp;fp=firefox&amp;type=grpc&amp;serviceName=media.v1.ObjectService&amp;sni=rs2.univesalsrv.com&amp;sid=1469af2040b7c323#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://3aacadb3-3590-44ff-bf7c-d6c7746fd667@infra-core.cvedcdigital.vip:8943?security=reality&encryption=none&pbk=Ge3vRi89tetp9HIwVZ_fb-8j0JKqqGjaHwWp_XmCYT0&fp=firefox&type=grpc&serviceName=grpc&sni=cvedcdigital.vip&sid=a4f8c92d#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://60e2a548-96aa-4850-a279-1edab743c39b@81.18.48.97:2053?pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&amp;fp=firefox&amp;fm=ahmadv2ray&amp;sid=8b71da690c3d5d03&amp;serviceName=remnagrpc&amp;sni=finanzfluss.de&amp;security=reality&amp;encryption=none&amp;type=grpc&amp;spx=%2Fahmadv2ray#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-vless://60e2a548-96aa-4850-a279-1edab743c39b@de1.cnyvpn.com:2053?type=grpc&security=reality&fp=firefox&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&sid=8b71da690c3d5d03&sni=finanzfluss.de&mode=gun&serviceName=remnagrpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+vless://60e2a548-96aa-4850-a279-1edab743c39b@de1.cnyvpn.com:2053?type=grpc&security=reality&fp=firefox&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&sid=8b71da690c3d5d03&sni=finanzfluss.de&mode=gun&serviceName=remnagrpc#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@201.24.54.241:22443?type=grpc&security=reality&serviceName=f234981844&sni=www.cloudflare.com&pbk=V8llhEcbGI7Zqf52Ec0kryrdRv7lvLcKCjHe1Di23yw&sid=fdf9d63fcdd6be6a&fp=firefox&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@201.24.54.210:22443?type=grpc&security=reality&serviceName=f234981844&sni=www.cloudflare.com&pbk=V8llhEcbGI7Zqf52Ec0kryrdRv7lvLcKCjHe1Di23yw&sid=fdf9d63fcdd6be6a&fp=firefox&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://e03a3489-b7e3-4a9b-9017-f8d4c720401e@31.76.84.55:443?encryption=none&fp=firefox&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&security=reality&sid=a1b2c3d4e5f6a7b8&sni=xnod16x.artemida.live&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -5525,7 +5525,7 @@ ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@103.172.116.6:9011#%F0%9F%8F%B3%EF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@passconf.xyz:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYdkswbHRINjdYaHY5aHQ5UmhZc0Z5@masting.xyz:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMXdCZ0NJVjMyOXF0NzdJRnZERUdF@beeconf.xyz:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@beacomf.xyz:8080#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@beacomf.xyz:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U09taU1BU2IydUxBY1MwejhmdkNJ@95.164.36.192:64751#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.171.89:989#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -6586,7 +6586,7 @@ trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%2
 vmess://eyJhZGQiOiI5NC4xMzAuMTg0LjU3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJjNWU1MjNlNy1kYTczLTQwYWYtYTRhOS1jNjM4NzIwYzMwZTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ3JhcGhxbCIsInBvcnQiOjgwLCJwcyI6Ilx1ZDgzY1x1ZGZmM1x1ZmUwZiBHaDBzdF9XaGl0ZUxpc3QiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vmess://eyJhZGQiOiI2NS4xMDkuMTYxLjE2NiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiN2ZkODdkZGItZmY2MS00YWNhLWE0MGMtNzNmNWNkNGQyMTc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwiLCJwb3J0Ijo4MCwicHMiOiJcdWQ4M2NcdWRmZjNcdWZlMGYgR2gwc3RfV2hpdGVMaXN0IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@89.163.220.99:28443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@133.167.100.203:2053?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
