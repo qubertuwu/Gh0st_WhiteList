@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14072
+# Всего рабочих: 14071
 
 vless://4e5017e0-07da-48ef-a882-fa26a845ead6@109.120.188.54:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?path=%2Fstorage&security=tls&encryption=none&alpn=h2,http/1.1&host=s95410.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s95410.cdn.ngenix.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -8023,7 +8023,6 @@ vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.39.218:8880?security=none&t
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:2052?host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls&security=none&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://08f174b9-28b8-45ca-be9a-9331848a6bb0@pishibadab-production.up.railway.app:443?path=/ws/08f174b9-28b8-45ca-be9a-9331848a6bb0&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://ebd7ed22-3db4-41d6-af81-225c5efdee90@roundhouse.proxy.rlwy.net:35408?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-vless://f54c98ce-ac44-4984-db61-ccca1fdbbf72@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://yVnpewtJT__ErgqS-TI2dw@206.1.96.244:8443?security=tls&sni=lunexhost.tolkun-tv.ru&alpn=h3%2C%20h2%2C%20http%2F1.1&fp=chrome&type=ws&host=lunexhost.tolkun-tv.ru&path=%2FLunex&fragment=3-3%2C0-1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%223-3%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://b732329b-8c5a-ac60-0bfd-8bb353dd7a22@69.46.46.126:443?path=%2Fws%2Fb732329b-8c5a-ac60-0bfd-8bb353dd7a22&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=norl-productionopop.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-productionopop.up.railway.app#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://f43c7951-ef4a-47c8-a5a8-407c5ee45684@69.46.46.223:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&insecure=0&sni=web-production-c66aad.up.railway.app&security=tls&path=%2Fws%2Ff43c7951-ef4a-47c8-a5a8-407c5ee45684&fp=chrome&alpn=http%2F1.1&allowInsecure=0&type=ws&host=web-production-c66aad.up.railway.app#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
