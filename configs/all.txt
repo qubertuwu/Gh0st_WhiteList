@@ -6626,7 +6626,7 @@ vmess://eyJhZGQiOiIxODguMTE2LjIyLjE3MSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNGIwMjg5
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp05a.roc-taiwan.org.ua:65015?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://7b06d22a8a7c764f@211.72.35.156:3389?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://QkxJPTkWg3@lqoo.xyz:60006?security=tls#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://QkxJPTkWg3@lqoo.xyz:60006?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vmess://eyJhZGQiOiIxNTQuMTcuMjIuNTYiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImNiNDQ4OWM3LWE5NjYtMzIwYy05MTIwLWYxN2E3ZGZiNDk5OSIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lIiwicG9ydCI6ODA4MywicHMiOiJcdWQ4M2NcdWRmZjNcdWZlMGYgR2gwc3RfV2hpdGVMaXN0IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
