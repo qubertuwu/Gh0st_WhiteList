@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14058
+# Всего рабочих: 14054
 
 vless://4e5017e0-07da-48ef-a882-fa26a845ead6@109.120.188.54:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?path=%2Fstorage&security=tls&encryption=none&alpn=h2,http/1.1&host=s95410.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s95410.cdn.ngenix.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -1988,11 +1988,9 @@ vless://ad7b2fde-d820-4dfe-be66-09fde32ddf61@45.196.224.83:8443?encryption=none&
 vless://df96530e-56f9-4876-9c84-54faaae14c5e@217.13.104.165:443?encryption=none&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&security=reality&serviceName=grpc-proxy&sid=0441f3e34348cb45&sni=travel.yandex.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@145.223.69.171:443?encryption=none&security=reality&sni=www.vk.com&fp=firefox&pbk=JQHrZXZRnkZUOMdNHS7X1fPyMDqKjiQWlfTdntIOqzg&sid=a6b92e23&spx=%2F&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@desrv.noooo.win:443?&security=reality&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=992f3294e2336744&fp=chrome&sni=stats.vk-portal.net&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@fi.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=avatars.mds.yandex.net&sid=b76dcf9e1183fe1b#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://e908b2be-1a22-41ec-8f28-a2a842c5471a@217.13.104.148:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=c8597fb67d55d9c4&sni=travel.yandex.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://b83df10b-dca1-4289-a17a-564e67389d15@46.246.92.249:443?security=reality&encryption=none&pbk=iANCShq476FCHBlNqkHoapBt8quqmm1wiKLwuCQeMAI&headerType=&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=89466f13a0fbc98f#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://e908b2be-1a22-41ec-8f28-a2a842c5471a@217.13.104.149:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=e55fd8f9c9a9a0ca&sni=travel.yandex.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@fi.riotvpn.eu:6443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=xhttp&sni=avatars.mds.yandex.net&sid=844352756c1fabba#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://87b47efd-34a7-4271-a544-0b8f9feb115c@217.13.105.4:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vkvideo.cs7777.vk.ru&pbk=dfpjZXFTymcxlvi1QnQwuja8AVmTBtHiKMOecY3_l2E#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@195.181.166.73:9443?type=grpc&security=reality&fp=firefox&pbk=UtAnh-HlChjh3afrhycDmeOSFs7cZBjIJx0qG7NB5Rc&sid=b419319c&sni=api-maps.yandex.ru&serviceName=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://d9c1a649-1cbe-42c7-a619-af38c944fa72@5.175.178.155:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ss02uq_fJvSOaFODaNs9xywXPhxRBXZdBUiazqhY1wM&security=reality&sid=e5758e5f&sni=vk.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2019,7 +2017,6 @@ vless://ae4c2de2-998c-4517-a6a1-0ecbdd51473a@185.23.34.225:443?encryption=none&t
 vless://8a993afa-0f5e-4de8-a2d6-1d850fd52dcc@51.250.16.78:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yandex.ru&fp=chrome&security=reality&pbk=MS65bqOY_SgSw67G9gj5a_5v6GzaVRlC1EDSdYEy1lg&sid=f7c0a11edbdb07f2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://b56b0646-6f2f-45e1-9c9b-cd98dd1ad2dd@144.31.90.161:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=My4NYF1x_I4nnRhgQXjpKl6BQVtgBWklHP6a3ejmOxU&security=reality&sid=1a66e6ad&sni=vk.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://5a233ce1-e895-403e-b1fe-2cd89f88048e@89.208.87.173:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.com&fp=chrome&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=1929ef620e9b34f5&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@fi.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=grpc&serviceName=grpc-yandex&sni=avatars.mds.yandex.net&sid=844352756c1fabba#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://87dba10d-5f0a-4994-982d-aa1b870081bd@84.252.143.29:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://f29c2f88-e9df-4849-b810-670db4ffa0fc@95.163.211.146:443?security=reality&type=xhttp&path=%2Fxhttp&mode=stream-up&extra=%7B%22enabled%22%3Atrue%2C%22concurrency%22%3A-1%2C%22xudpConcurrency%22%3A16%2C%22xudpProxyUDP443%22%3A%22reject%22%7D&sni=eh.vk.com&fp=qq&pbk=N-WHSQCBNwnePbsjSBoWzoSVHSJ0hFbNtU3om3RpViA&spx=%2F&sid=b8d14d07994cbabc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://5f5973cc-b1f9-4655-8952-ca1de6e2f4bc@37.9.4.38:8450?type=grpc&security=reality&encryption=none&sni=api.vk.ru&fp=firefox&pbk=7V0vADPc7LkbXMs2rPyw-Pp6CBazw3Tt6N_WbkwdvCI&sid=7ccbcb93b59845de&headerType=none&serviceName=%2Fapi%2Fv2%2Fevents%2Fcollect&mode=gun#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -6358,7 +6355,6 @@ vmess://eyJhZGQiOiIxODguMTE2LjIyLjE3MSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNGIwMjg5
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp05a.roc-taiwan.org.ua:65015?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://7b06d22a8a7c764f@211.72.35.156:3389?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://QkxJPTkWg3@lqoo.xyz:60006?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vmess://eyJhZGQiOiIxNTQuMTcuMjIuNTYiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImNiNDQ4OWM3LWE5NjYtMzIwYy05MTIwLWYxN2E3ZGZiNDk5OSIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lIiwicG9ydCI6ODA4MywicHMiOiJcdWQ4M2NcdWRmZjNcdWZlMGYgR2gwc3RfV2hpdGVMaXN0IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
