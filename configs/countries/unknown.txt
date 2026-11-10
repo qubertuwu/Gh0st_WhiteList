@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14051
+# Всего рабочих: 14052
 
 vless://4e5017e0-07da-48ef-a882-fa26a845ead6@109.120.188.54:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?path=%2Fstorage&security=tls&encryption=none&alpn=h2,http/1.1&host=s95410.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s95410.cdn.ngenix.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -7843,6 +7843,7 @@ vless://2edbad06-49de-4f75-bfc9-993a12cfe3f1@204.11.2.120:16565?Telegram=Cfox_Se
 vless://60e2a548-96aa-4850-a279-1edab743c39b@81.18.48.97:2096?pbk=SxwVIGxEH4b7_lUoInpjwEd4Ga9ngcWyUEomP5zU3Fk&flow=xtls-rprx-vision&type=tcp&encryption=none&sid=e3e76808b9fcd591&security=reality&sni=conrad.de&headerType=none&fp=firefox#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://9f6f094d-0f59-4422-9575-3cfe3d8e0ed2@4de.arosakforosh.ir:9932?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.krmkbckycnkKq29MKnNpZCtkqMKlO9q4svhCzMA5enw&type=ws&flow=xtls-rprx-vision#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://2dd590a4-fc7b-4ad8-a8d6-c5f19f686cfd@178.83.45.98:3038?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+vless://d7aec8fe-7922-4bfb-ae1f-b4957a47578c@play-u1.team-pluss.ir:12345?security=reality&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&pbk=1N8CIM6v_TgbIDNneyEPNQ92hyq5Eyh_irJWOXKDBDw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sheets.google.com&sid=2b368990a94e8cbb#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://21854465-54dd-474d-8a94-9ca112c24694@de10.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vmess://eyJhZGQiOiJwbGFuYi5tb2pjbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjBlM2I3YjJiMmFkYWY1Yjc5MjlkZGQzMWE4NDg5NTIxLm1vYmdzbGIudGJjYWNoZS5jb20iLCJpZCI6IjgyZTYyOTVjLTlkYjctNDYwMS1hYjE1LTA1NGE1ZTYxMjlmNCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTY2MTciLCJwcyI6Ilx1ZDgzY1x1ZGZmM1x1ZmUwZiBHaDBzdF9XaGl0ZUxpc3QiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
