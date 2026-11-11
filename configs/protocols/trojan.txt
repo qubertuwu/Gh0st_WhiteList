@@ -511,7 +511,7 @@ trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.234:443?security=tls#%
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp05a.roc-taiwan.org.ua:65015?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://7b06d22a8a7c764f@211.72.35.156:3389?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://QkxJPTkWg3@lqoo.xyz:60006?security=tls#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://QkxJPTkWg3@lqoo.xyz:60006?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp04a.roc-taiwan.net.ua:65014?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -1189,7 +1189,7 @@ trojan://-------BanV2ray------@179.237.75.89:23780?mode=gun&security=reality&pbk
 trojan://-------BanV2ray------@179.237.75.89:36268?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=/&type=grpc&sni=chi.yahoo.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://-----BanV2ray----@179.237.75.89:16267?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=/&type=grpc&sni=chi.yahoo.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://-----------BanV2ray-----------@83.228.227.156:47375?security=reality&sni=chi.yahoo.com&type=grpc&fp=firefox&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&sid=05626eef4c#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://ab6278bc429170f@ifo.configfast.site:58900?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=chrome&spx=/Z5AUwxp13GrTd3S&type=tcp&sni=google.com&sid=27#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://ab6278bc429170f@ifo.configfast.site:58900?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=chrome&spx=/Z5AUwxp13GrTd3S&type=tcp&sni=google.com&sid=27#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 trojan://------------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir:4715?mode=gun&security=reality&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&fp=firefox&spx=%2F856cd1724e22cb9&type=grpc&sni=chi.yahoo.com&sid=74772f4487d61a#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://------------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir:2637?mode=gun&security=reality&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&fp=firefox&spx=%2F856cd1724e22cb9&type=grpc&sni=chi.yahoo.com&sid=05626eef4c#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://------------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir:4737?mode=gun&security=reality&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&fp=firefox&spx=%2F856cd1724e22cb9&type=grpc&sni=chi.yahoo.com&sid=05626eef4c#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
