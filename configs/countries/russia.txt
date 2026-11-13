@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 320
+# Всего рабочих: 322
 
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@204.168.233.186.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@5.255.122.32.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -264,6 +264,8 @@ vless://31649657-6c78-4c2c-b25b-5cd574b082b5@es01.tunnely.ru:443?security=realit
 vless://31649657-6c78-4c2c-b25b-5cd574b082b5@es02.tunnely.ru:443?type=tcp&security=reality&sni=es02.tunnely.ru&fp=firefox&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://179b1ae5-9e71-402e-b854-a2b54e7004a9@spain-guard.f1-connect.apruxdomain.xyz:25881?encryption=none&security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@dc-106-es.netzrun.at:5222?security=tls&sni=dc-106-es.netzrun.at&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://e7c11cc8-e4ae-45cf-98ef-6d9bc9cc5aa7@ru.golu-gulu.online:3443?encryption=none&type=grpc&security=reality&sni=id.pervye.ru&pbk=xEShpzw3ELhAha1ilVBZdkfgxtRMxZmP8Ji_Y3FZSX0&fp=chrome&serviceName=nss&authority=id.pervye.ru#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://e7c11cc8-e4ae-45cf-98ef-6d9bc9cc5aa7@ru.golu-gulu.online:8443?security=reality&type=grpc&mode=gun&serviceName=nss&sni=id.pervye.ru&fp=chrome&pbk=xEShpzw3ELhAha1ilVBZdkfgxtRMxZmP8Ji_Y3FZSX0&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://663836b2-f676-43fb-977f-47c495b1b383@arab.chick-team.ru:443?security=reality&encryption=none&pbk=aFbCyrLOre-V3ORpBjqenGfDt62Ng_i1sSq-DmZHVgc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=89e0494514ec#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443?&security=reality&flow=xtls-rprx-vision&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&type=tcp&headerType=none&host=pro-ru-bridge.emrata.top&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://9ddd1219-bc7f-4524-ad7c-5b110e7c37bc@edge5.rumedia-cdn.com:8449?&security=reality&flow=xtls-rprx-vision&pbk=lcLyifIUyL1UnMABv4u7mVSh7VRmOVaZinSDfSKB13g&sid=60ccd0e5ab46ac4f&fp=chrome&sni=www.rumedia-cdn.com&type=tcp&headerType=none&host=edge5.rumedia-cdn.com&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
