@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 322
+# Всего рабочих: 323
 
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@204.168.233.186.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@5.255.122.32.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -114,6 +114,7 @@ vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@sw.alertyagency.com:9443?type=grpc&
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@es.alertyagency.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=fJGvGs_j23gTjn5q5QWCOsD3TeIdOqkpSLv7geS6AQI&sid=2b8c5943&sni=api-maps.yandex.ru#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@sw.alertyagency.com:443?type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=sT3IlhEi8k7BA0jYkn5TkJ8HcX3_FZ7USnfnqCAGrhw&sid=1750fe7d&fp=firefox&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@ro.alertyagency.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=DxMGwax3l0UxFYZE349Fs15huyc4Jwzj6MG7Qrj0HQ0&sid=735093d7&sni=api-maps.yandex.ru#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://84b504e4-a97f-40ab-93c3-a03a5f0ff36c@ru.riotvpn.eu:8443?type=grpc&security=reality&sni=avatars.mds.yandex.net&fp=chrome&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=844352756c1fabba#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@sl.alertyagency.com:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=WMO-BNY1BX2nNlOOQgxLP4D3H-OnE2ypbXlbSMjLRVM&sid=e764f0ea#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@pp.alertyagency.com:9443?type=grpc&security=reality&serviceName=grpc&sni=api-maps.yandex.ru&pbk=kUuy5M4V5bfjri7m_XBryv1YTLLlPLPIwPotJJgpgEc&sid=87922049&fp=firefox&spx=%2F&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://c7fc6e44-d57b-49b9-9ff2-a4e0aa9e9b8c@pp.alertyagency.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kUuy5M4V5bfjri7m_XBryv1YTLLlPLPIwPotJJgpgEc&sid=87922049&sni=api-maps.yandex.ru#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
