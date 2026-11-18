@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 327
+# Всего рабочих: 328
 
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@204.168.233.186.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@5.255.122.32.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -284,6 +284,7 @@ vless://0234cdd9-35ee-40a5-b698-9820f09a04f5@watmtmawdwlslzlssm.cfooov.xyz:35991
 vless://31649657-6c78-4c2c-b25b-5cd574b082b5@nl02.tunnely.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&security=reality&sid=2e40144ddc07e8e1&sni=nl02.tunnely.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://1cc21fb6-b8ec-42c7-a57c-39e89ace379e@yes.normbot.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yes.normbot.ru&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6467aa9c086620dc&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@dc-114-ee.netzrun.at:5222?security=tls&sni=dc-114-ee.netzrun.at&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://ec94f044-eb08-4f41-9a03-f3d9c92f5713@ee-2-gatev1.dedicated.cdnnow.xyz:12303?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=ens3hLP8kjd-Zye3nW1Q_CC2kJFo0PdPbplj9VLwkWg&sid=faa145dab838eac4&sni=music.yandex.ru&spx=%2F&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://24f8209b-6689-4e7a-b067-f886e04dfc43@est-1.p-esmy.icu:2066?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&flow=xtls-rprx-vision&fp=qq&sni=ads.x5.ru&pbk=XIBKbglsQ9pI4eo26LoUkmNxnVqlKtxZRO0H91v3jF0&encryption=none&headerType=none&security=reality&sid=1b2a3f&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 trojan://FH72359861@cunning-grub.rooster465.autos:443?security=tls#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@be-lb-rtt.netzrun.at:5222?security=tls&sni=be-lb-rtt.netzrun.at&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList

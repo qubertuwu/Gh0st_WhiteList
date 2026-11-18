@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14013
+# Всего рабочих: 14011
 
 vless://4e5017e0-07da-48ef-a882-fa26a845ead6@109.120.188.54:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?path=%2Fstorage&security=tls&encryption=none&alpn=h2,http/1.1&host=s95410.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s95410.cdn.ngenix.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -6325,7 +6325,6 @@ vmess://eyJhZGQiOiIxODguMTE2LjIyLjE3MSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNGIwMjg5
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp05a.roc-taiwan.org.ua:65015?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://7b06d22a8a7c764f@211.72.35.156:3389?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://QkxJPTkWg3@lqoo.xyz:60006?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vmess://eyJhZGQiOiIxNTQuMTcuMjIuNTYiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImNiNDQ4OWM3LWE5NjYtMzIwYy05MTIwLWYxN2E3ZGZiNDk5OSIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lIiwicG9ydCI6ODA4MywicHMiOiJcdWQ4M2NcdWRmZjNcdWZlMGYgR2gwc3RfV2hpdGVMaXN0IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -12097,7 +12096,6 @@ vless://8033102198@138.124.100.128:443?alpn=http/1.1&encryption=none&flow=xtls-r
 vless://da679dcf-b250-453c-8627-0d434cd960aa@95.85.224.14:443?security=reality&encryption=none&pbk=OECEXjkKytnmX6qxzAvC9tE9QAQqNuWRBblAmbRnYWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=fe2e437f64f2da7a#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@5.175.178.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=spry-jolt.cdn.cachefleet.com&fp=random&pbk=ym3hAtR8IhSWN-uRGGRcjHm7tvaPfeVcBDW6DM8w_Ec&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:8443?type=tcp&security=tls&encryption=none&fp=firefox&sni=estproxy2.lockdwn.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-vless://ec94f044-eb08-4f41-9a03-f3d9c92f5713@ee-2-gatev1.dedicated.cdnnow.xyz:12303?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=ens3hLP8kjd-Zye3nW1Q_CC2kJFo0PdPbplj9VLwkWg&sid=faa145dab838eac4&sni=music.yandex.ru&spx=%2F&fp=edge#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://c5acd222-394f-4ce3-bae5-020e2f8ae469@87.121.86.168:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=luip5Kp5YyKKr-i_M5rZn2QeH1pMhcx91LvFJgDNemw&sid=f8ae7fc476&sni=ee-trace.palm-network.ru#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://bda0ede7-ef0a-4fbc-b3b6-1205e55ffb48@2.26.128.75:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=wombat.mycdn-me.ru&fp=qq&security=reality&pbk=w88Ys8dVF9DuslGwUD05J9-FHNoAT9qmPysCvHiEmmg&sid=1b40e7c2a1d8f635#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://bda0ede7-ef0a-4fbc-b3b6-1205e55ffb48@2.26.135.194:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=smorodina.mycdn-me.ru&fp=qq&security=reality&pbk=09O8bAlIWm9AGnNyxBtHwpYNQxlXPSQeQeKzS3ZMwGE&sid=a1f9c0e21d7b6485#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
