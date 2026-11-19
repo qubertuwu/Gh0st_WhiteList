@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14011
+# Всего рабочих: 14010
 
 vless://4e5017e0-07da-48ef-a882-fa26a845ead6@109.120.188.54:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ads.x5.ru&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?path=%2Fstorage&security=tls&encryption=none&alpn=h2,http/1.1&host=s95410.cdn.ngenix.net&allowinsecure=0&type=ws&sni=s95410.cdn.ngenix.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2371,7 +2371,6 @@ vless://4a504914-9695-41f9-8a60-c06d986e0300@fr1.s812331.shop:443?flow=xtls-rprx
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@pl.spectrum.vu:443?type=tcp&security=reality&pbk=7naINgyna0nJ73fMHGStdajWwIrsBk7pxgTKG7QerwY&fp=firefox&sni=pl.spectrum.vu&sid=c8d3e5f1a9b2&flow=xtls-rprx-vision#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@138.124.113.18:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=iamsterdam.com&pbk=1RFs75L42oUjmgEKqahFVrKKN52cosDkrWskT053D3o&sid=0aafc7b3b9&spx=/#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://fe604665-7c82-44cf-a067-869fe9b2abae@81.90.21.104:9443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=se.realitynetwork.eu&pbk=zOPjTJV8xgGMmD0Mg0jWsRYSOsa_2pp7SSs88EFK6nw#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-vless://0c7c9ea2-7e1e-0014-b5a5-fdd2ef7618db@de01.goodmaximum.com:443?type=tcp&headerType=none&security=reality&fp=firefox&sni=data.glimmerhouse.com&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=77778028b56c8704#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://1749cc99-7eba-452e-a6b8-3bd042846beb@84.201.132.192:8443?allowInsecure=1&flow=&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&serviceName=grpc&sid=6b2f4e6ac9b1d2f0&sni=api-maps.yandex.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://1749cc99-7eba-452e-a6b8-3bd042846beb@78.159.250.173:8090?allowInsecure=1&flow=&fp=firefox&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&security=reality&sid=a20d3ed244c76426&sni=iv.kommersant.ru&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 vless://1749cc99-7eba-452e-a6b8-3bd042846beb@37.18.15.239:443?allowInsecure=1&flow=&fp=firefox&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&security=reality&serviceName=grpc&sid=a20d3ed244c76426&sni=media.mediavitrina.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
